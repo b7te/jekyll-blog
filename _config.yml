@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: GitHub & Jekyll
 description: Blogging at fingertips
 github:
-  is_project_page: false
+  repository_url: ""
