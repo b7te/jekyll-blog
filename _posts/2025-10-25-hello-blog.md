@@ -5,3 +5,15 @@ description: First blogpost
 ---
 
 🦸‍♂️
+
+```js
+// FIXME
+console.log("Hello, world");
+```
+
+```python
+def say_hello(name):
+  print(f"Hello, {name}!")
+
+say_hello("Mike")
+```
