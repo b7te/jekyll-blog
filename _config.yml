@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: GitHub & Jekyll
 description: Blogging at fingertips
+show_downloads: false
