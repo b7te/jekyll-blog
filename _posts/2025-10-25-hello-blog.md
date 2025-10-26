@@ -17,3 +17,5 @@ def say_hello(name):
 
 say_hello("Mike")
 ```
+
+![Carbon](/assets/img/carbon.png)
