@@ -18,4 +18,4 @@ def say_hello(name):
 say_hello("Mike")
 ```
 
-![Carbon](/assets/img/carbon.png)
+![Carbon](/jekyll-blog/assets/img/carbon.png)
