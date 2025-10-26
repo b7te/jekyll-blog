@@ -1,3 +1,8 @@
+<style>
+  .site-footer-credits {
+  display: none !important;
+}
+</style>
 
 🥇
 
