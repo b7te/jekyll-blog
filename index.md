@@ -1,6 +1,6 @@
 <style>
   .site-footer-credits {
-  display: none !important;
+  display: none;
 }
 </style>
 
